@@ -1,10 +1,4 @@
-Group Members:
+A math game created a part of the BCIT CST curriculum that connects two web pages with PHP credentials and login features. Created by Sam Tadey, Victor Vuong, and John Hoang.
 
-Victor Vvuong A01021299
-Sam Tadey A00987597
-John Hoang A01001941
-
-What we have not completed:
-Think everything is in order.
-
+Deployment of the math game on Microsoft Azure.
 http://vvstjhmathgame.azurewebsites.net
